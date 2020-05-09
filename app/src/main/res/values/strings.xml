@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Images</string>
+    <string name="tags_text">Tags: %1$s</string>
+    <string name="likes_text">Likes: %1$d</string>
+</resources>

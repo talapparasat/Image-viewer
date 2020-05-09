@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_item_padding">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="card_view_height">250dp</dimen>
+    <dimen name="image_height">201dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+</resources>
